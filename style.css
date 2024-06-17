@@ -4,6 +4,6 @@ padding: 0%;
 box-sizing: border-box;
 }
 body{
-    background-color: rgba(153, 255, 0, 0.795);
-    color: rgba(1, 83, 1, 0.418);
+    background-color: rgba(153, 255, 0, 0);
+    color: rgb(1, 83, 1);
 }
