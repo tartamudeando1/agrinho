@@ -6,6 +6,9 @@ box-sizing: border-box;
 body > h1{
     font-size: 2em;
 }
+body > h2{
+    font-size: 1em;
+}
 
 body{    
     background-color: rgba(155, 255, 4, 0.267);
