@@ -3,11 +3,15 @@ margin: 0%;
 padding: 0%;
 box-sizing: border-box;
 }
-body{
+body > h1{
     font-size: 2em;
+}
+
+body{    
     background-color: rgba(155, 255, 4, 0.267);
     color: rgb(0, 38, 255);
 }
+
 header{
     position: relative;
     background: rgba(155, 255, 4, 0.267),blue;
