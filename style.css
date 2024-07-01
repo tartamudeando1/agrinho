@@ -22,7 +22,7 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-}
+
 
 .gradient {
     background-image: linear-gradient(to right, rgb(255, 0, 0), rgb(0, 140, 255), rgb(81, 255, 0));
