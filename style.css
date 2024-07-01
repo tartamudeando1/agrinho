@@ -30,8 +30,7 @@ header{
 .gradient {
     background-image: linear-gradient(to left, rebeccapurple, steelblue, turquoise);
     color: black;
-  
-    /* Adicionado: */
     background-clip: text;
     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
