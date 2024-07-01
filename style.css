@@ -12,12 +12,12 @@ body > h2{
 
 body{    
     background-color: rgba(155, 255, 4, 0.267);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 3, 3);
 }
 
 header{
     position: relative;
-    background: rgba(155, 255, 4, 0.267),rgb(0, 0, 0);
+    background: rgba(155, 255, 4, 0.267),rgb(255, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
