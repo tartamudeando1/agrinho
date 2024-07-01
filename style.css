@@ -25,10 +25,11 @@ header{
 .fogo{
     width: 1000px;
     height: 1000px;
+    
 }
 
 .gradient {
-    background-image: linear-gradient(to left, rebeccapurple, steelblue, turquoise);
+    background-image: linear-gradient(to right, rebeccapurple, steelblue, turquoise);
     color: black;
     background-clip: text;
     -webkit-background-clip: text;
